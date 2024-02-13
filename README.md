@@ -1,4 +1,9 @@
-# FAQ-Discord-Bot
+<div id="header" align="center">
+  <h1>
+     🤖 FAQ-Discord-Bot 
+  </h1>
+</div>
+
 This Discord bot is designed to handle frequently asked questions (FAQs) within your Discord server efficiently. It utilizes Pyzo and Python for implementation, along with Spacy for natural language processing, and advanced regex pattern matching to provide relevant responses.
 
 # Features
@@ -11,7 +16,7 @@ This Discord bot is designed to handle frequently asked questions (FAQs) within 
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your_username/FAQ-Discord-Bot.git
+    git clone https://github.com/sukhmancs/FAQ-Discord-Bot.git
    ```
 
 2. Set up a Discord bot account and obtain the token.
@@ -21,7 +26,7 @@ This Discord bot is designed to handle frequently asked questions (FAQs) within 
 
 1. Run the bot:
     ```bash
-    python bot.py
+    python faq_bot_skeleton.py
     ```
 
 2. Invite the bot to your Discord server.
@@ -29,7 +34,7 @@ This Discord bot is designed to handle frequently asked questions (FAQs) within 
 
 # Configuration
 
-  Modify the faq_bot_skeleton.py file to customize bot behavior, such as command prefixes, FAQ database, etc.
+  Modify the `faq_bot_skeleton.py` file to customize bot behavior, such as command prefixes, FAQ database, etc.
 
 # Contributing
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
