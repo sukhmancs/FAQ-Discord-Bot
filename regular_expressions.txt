@@ -1,0 +1,20 @@
+(purpose|goals|primary objective).*(International Space Station|ISS)
+(execute a gravity assist maneuver|gravity assist maneuver).*(interplanetary travel|planetary travel)
+(goals|objectives).*Artemis program.*NASA
+Hubble Space Telescope.*astronomical (research|studies)
+(challenges|difficulties).*(extended|prolonged) space (missions|journe(y|ys)).*(Mars|space)
+(Perseverance rover's sample caching system|principle behind the sample caching system of the Perseverance rover).*Mars
+scientific (instruments|tools).*Juno spacecraft.*(orbiting Jupiter|orbit around Jupiter)
+space mining.*(asteroids|exploration)
+James Webb Space Telescope.*(contribute|advancing).*(universe|cosmos)
+space agencies.*(mitigate|risk).*(space debris collisions|collisions between space debris)
+(potential benefits|advantages).*establishing a lunar (base|outpost)
+ion propulsion systems.*(differ|apart).*(traditional|conventional).*spacecraft
+scientific (objectives|goals).*Europa Clipper mission.*Jupiter's moon Europa
+in-situ resource utilization.*(contribute|sustainable).*exploration
+advancements.*(space telescopes|capabilities).*Hubble.*James Webb
+potential health (effects|risks).*prolonged space travel.*(Mars|astronauts)
+(significance|important).*Gateway lunar outpost.*NASA's Artemis program
+exoplanet exploration program.*(provide|contribute|understanding).*solar system
+(primary challenges|main obstacles).*developing technologies.*(crewed|manned) missions.*Mars
+space agencies.*(collaborate|cooperate).*((international|global) space missions).*benefits.*collaboration
